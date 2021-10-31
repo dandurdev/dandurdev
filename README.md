@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 📫 I'm a student of Health Information Systems, which's about Health Statistic Systems
+- 🌱 Also I'm currently learning Javascript 'cause I ❤ Web Development 🐱‍💻
+
 
 <!--
 **dandurdev/dandurdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@
 About Me
 
 - 📫 I'm a student of Health Information Systems, which's about Health Statistic Systems
-- 🌱 Also I'm currently learning Javascript 'cause I ❤ Web Development 🐱‍💻
+- 🌱 Also I'm currently learning HTML, CSS & Javascript 🐱‍💻
 
 
 <!--
